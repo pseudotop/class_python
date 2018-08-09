@@ -23,3 +23,5 @@ class_python
 * Crawling
   - cr01.py
   - cr02.py
+  - cr_zdnet.py
+    + 키워드 추출 후 카운트
