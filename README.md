@@ -16,5 +16,10 @@ class_python
   - factorial.py
 * 튜플
   - unpacking.py
-  
-
+# 3. Day03
+* 모듈
+  - fibo.py
+  - getfibo.py
+* Crawling
+  - cr01.py
+  - cr02.py
