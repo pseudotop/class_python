@@ -31,7 +31,7 @@ def go(url = gurl , depth=0) :
                 try:
                     dict_text[ltext[i]] += 1
                 except:
-                    dict_text[ltext[i]] = 0
+                    dict_text[ltext[i]] = 1
         print(ltext)
     except AttributeError:
         pass
