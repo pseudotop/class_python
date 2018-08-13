@@ -25,8 +25,24 @@ class_python
   - cr02.py
   - cr_zdnet.py
     + 키워드 추출 후 카운트
+    + [cr_zdnet.py 가이드북 바로가기](day03/README.md)
 # 4. Day04
 * Crawling using **selenium**
   - cr3.py
   - cr4.py
     + korail booking
+# 5. Day05
+* File I/O
+  - readFile.py
+  - countWords.py
+* Packing & Unpacking (**Dictionary**, **Tuple**)
+  - getDict.py
+  - calCircle.py
+* DIctionary
+  - anaSentence.py
+* Class
+  - class1.py
+  - class2.py
+  - class3.py
+  - class4.py
+  - class5.py
