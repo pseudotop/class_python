@@ -46,3 +46,27 @@ class_python
   - class3.py
   - class4.py
   - class5.py
+# 6. Day06
+* GUI using **tkinter**
+  - number={1..7}
+  - tkinter${number}.py
+  - tkinter_animation.py
+    + object collision
+* Excel Control
+  - workbook.py
+# 7. Day07
+* Game on GUI using **pygame**
+  - Galaga.py
+  - Game_pygame.py
+# 8. Day08
+* File I/O
+  - fileio.py
+  - fileio_byte.py
+  - fileio_json.py
+  - fileio_pickle.py
+  - fileio_simple.py
+  - os_walk.py
+# 9. Day09
+* Cipher(암호)
+  - encrypt_${..}.py
+  - crypto_${..}.py
